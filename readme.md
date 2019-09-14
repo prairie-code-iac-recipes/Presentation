@@ -1,0 +1,8 @@
+# Prairie Code 2019
+## A Recipe for Infrastructure as Code
+As an infrastructure engineer or developer, most of us have probably gone to the web looking for an example. Maybe it was something that was too abstract to fully-grasp or maybe we just weren't quite sure how to get started. Whatever the reason, we were sure that an example would help us take that first step. That is what this presentation intends to do for those who are interested in Infrastructure as Code. Whether you are currently serving as an infrastructure engineer or an application developer this session is for you. As an infrastructure engineer you need to embrace what this means to your career and start taking steps to position yourself for success. As an application developer, you need to realize that the lines between infrastructure and application are blurring and in many cases your application is going to start bundling things that were traditionally considered infrastructure into its build and deployment process.
+
+In this session we will begin by introducing concepts such as immutable infrastructure, the golden image, configuration management, and orchestration. From there, we'll quickly move onto patterns for combining these concepts in different ways to meet the needs of your organization. Finally, we will look at a specific recipe for leveraging Hashicorp Packer and Terraform along with SaltStack's Salt configuration management tool and Docker Swarm to provide a loosely-coupled stack that enables infrastructure and applications to be managed independently.
+
+## Downloads
+[Download the Presentation](https://drive.google.com/file/d/1MHwammqUDLZpHL8luGw8cYwQR9GeQ1Np/view?usp=sharing)
